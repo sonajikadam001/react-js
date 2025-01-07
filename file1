@@ -1,9 +1,9 @@
-// Import necessary libraries
+
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css'; // Import custom CSS for styling
+import './index.css';
 
-// Create a functional component for the website
+
 function App() {
   return (
     <div className="App">
